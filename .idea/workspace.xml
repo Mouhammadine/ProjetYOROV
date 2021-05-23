@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b085345-bfe0-4c16-9c1d-c8372b296778" name="Default Changelist" comment="" />
+    <list default="true" id="3b085345-bfe0-4c16-9c1d-c8372b296778" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1sujsKgiI0x6AWdvauhNEMGqcXg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,6 +36,36 @@
       <option name="presentableId" value="Default" />
       <updated>1621729573565</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1621729945312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621729945312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="0" key="CommitChangelistDialog2" timestamp="1621729944209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="254" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1621729944209" />
+    <state x="488" y="242" key="Github.ShareDialog" timestamp="1621729864218">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="488" y="242" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1621729864218" />
+    <state x="367" y="50" key="Github.UntrackedFilesDialog" timestamp="1621729879652">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="367" y="50" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1621729879652" />
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621729905485">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1621729905485" />
   </component>
 </project>
